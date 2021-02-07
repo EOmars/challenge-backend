@@ -20,4 +20,4 @@ function calculateValue(n) {
 }
 
 
-module.exports = { calculateValue }
+module.exports = calculateValue
